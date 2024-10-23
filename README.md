@@ -1,0 +1,1 @@
+El proyecto se enfocará en la clasificación de cuatro gestos de la muñeca: extensión, flexión, desviación ulnar y desviación radial. Estos movimientos fueron capturados utilizando un sensor IMU integrado en un Arduino Nano 33 BLE Sense, que se colocó en la parte superior de los dedos. Para cada uno de los cuatro movimientos, se recopilaron datos durante un período de 20 segundos.
